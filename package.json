@@ -58,9 +58,7 @@
       "maxSize": "28.5 kB"
     }
   ],
-  "engines": {
-    "npm": "^7.20.3"
-  },
+  "engines": {},
   "peerDependencies": {
     "graphql": "^14.0.0 || ^15.0.0",
     "react": "^16.8.0 || ^17.0.0",
